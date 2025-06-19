@@ -1,0 +1,39 @@
+[
+    {
+        "role": "customer",
+        "first_name": "Sobitxon",
+        "last_name": "Khasanbayev",
+        "age": 15,
+        "passport_id": "77777777",
+        "password": "KS7",
+        "email": "khasanbayevv@gmail.com",
+        "balance": 10000000000.0,
+        "cards": [
+            "986077777777"
+        ]
+    },
+    {
+        "role": "customer",
+        "first_name": "Firdavs",
+        "last_name": "Khasanbayev",
+        "age": 12,
+        "passport_id": "44444444",
+        "password": "KF4",
+        "email": "khasanbayev.4@mail.ru",
+        "balance": 0.0,
+        "cards": [
+            "986044444444"
+        ]
+    },
+    {
+        "role": "admin",
+        "first_name": "Sobitxon",
+        "last_name": "Khasanbayev",
+        "age": 15,
+        "passport_id": "17711771",
+        "password": "KS2009",
+        "email": "khasanbayev.7@mail.ru",
+        "balance": 0,
+        "cards": []
+    }
+]
